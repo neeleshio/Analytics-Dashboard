@@ -15,7 +15,7 @@
 ## Demo
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/neeleshio/Photography-Store/master/Sequence%20%231(4).gif" alt="demo" width="600">
+  <img src="https://raw.githubusercontent.com/neeleshio/Analytics-Dashboard/master/Sequence%20%231(6).gif" alt="demo" width="600">
 </h1>
 
 ## Installation
