@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/neeleshio/Photography-Store/master/ps.png" alt="photography-store" width="600">
+  <img src="https://raw.githubusercontent.com/neeleshio/Analytics-Dashboard/master/ad.png" alt="analytics-dashboard" width="600">
 </h1>
 
-<h4 align="center">Responsive photography store admin-dashboard built with Reactjs.</h4>
+<h4 align="center">An analytics dashboard built with Reactjs & Ant-Design .</h4>
 
 <div align="center">
   <img src="https://img.shields.io/badge/host-private-blueviolet">
